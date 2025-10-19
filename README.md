@@ -38,6 +38,6 @@
   ## 🌐 Connect with Me
   <p>
     <a href="https://github.com/R3kt00" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2361DAFB.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-    <a href="soon" target="_blank"><img src="https://img.shields.io/badge/Discord-%2361DAFB.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://discord.gg/qWaXXDjVxC" target="_blank"><img src="https://img.shields.io/badge/Discord-%2361DAFB.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
 </div>
