@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=R3kt00&style=flat-square)  
+![GitHub Followers](https://img.shields.io/github/followers/R3kt00?style=social)
+
 <div align="center">
   <h1>Rk3t00</h1>
 
