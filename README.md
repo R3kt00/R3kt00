@@ -5,40 +5,22 @@
   <h1>Rk3t00</h1>
 
   ## 👨‍💻 About Me
-  Hey! I’m R3kt, a 16-year-old full-stack developer and system administrator from Finland. <br>
-  I’ve got over 3.5 years of experience creating custom plugins, server optimizations, websites, and full server setups from scratch. <br>
-  I focus on performance, clean design, and making everything work smoothly, whether it’s web development, server configs, or plugin development. <br>
+  Hey! I’m R3kt, a 16-year-old full-stack developer and system administrator from Finland.
+  I’ve got over 3.5 years of experience creating custom plugins, server optimizations, websites, and full server setups from scratch.
+  I focus on performance, clean design, and making everything work smoothly, whether it’s web development, server configs, or plugin development.
   Lifelong learner, always experimenting with new tools and languages.
 
   ## 🛠 Tech Stack
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <a href="https://www.java.com" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/java-coffee-cup-logo.png" width="50" height="50" alt="Java" />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/python.png" width="50" height="50" alt="Python" />
-    </a>
-    <a href="https://kotlinlang.org" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/kotlin.png" width="50" height="50" alt="Kotlin" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/node-js.png" width="50" height="50" alt="Node.js" />
-    </a>
-    <a href="https://git-scm.com" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/git.png" width="50" height="50" alt="Git" />
-    </a>
-    <a href="https://github.com" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/github.png" width="50" height="50" alt="GitHub" />
-    </a>
-    <a href="https://reactjs.org" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/react.png" width="50" height="50" alt="React" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/css3.png" width="50" height="50" alt="CSS" />
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img src="https://img.icons8.com/3d-fluency/94/null/intellij-idea.png" width="50" height="50" alt="IntelliJ IDEA" />
-    </a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   </div>
 
   ## 📊 GitHub Insights
