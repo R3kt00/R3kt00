@@ -15,17 +15,7 @@ I focus on performance, clean design, and seamless user experiences.
 
 ## 🛠 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 20px;">
-
-[![Java](https://img.shields.io/static/v1?label=\&message=Java\&color=ED8B00\&logo=openjdk\&logoColor=white\&style=flat-square)]()
-[![Python](https://img.shields.io/static/v1?label=\&message=Python\&color=3776AB\&logo=python\&logoColor=white\&style=flat-square)]()
-[![Kotlin](https://img.shields.io/static/v1?label=\&message=Kotlin\&color=7F52FF\&logo=kotlin\&logoColor=white\&style=flat-square)]()
-[![Node.js](https://img.shields.io/static/v1?label=\&message=Node.js\&color=339933\&logo=node.js\&logoColor=white\&style=flat-square)]()
-[![Git](https://img.shields.io/static/v1?label=\&message=Git\&color=F05032\&logo=git\&logoColor=white\&style=flat-square)]()
-[![GitHub](https://img.shields.io/static/v1?label=\&message=GitHub\&color=181717\&logo=github\&logoColor=white\&style=flat-square)]()
-[![React](https://img.shields.io/static/v1?label=\&message=React\&color=61DAFB\&logo=react\&logoColor=white\&style=flat-square)]()
-[![CSS3](https://img.shields.io/static/v1?label=\&message=CSS3\&color=1572B6\&logo=css3\&logoColor=white\&style=flat-square)]()
-[![IntelliJ IDEA](https://img.shields.io/static/v1?label=\&message=IntelliJ%20IDEA\&color=000000\&logo=intellij-idea\&logoColor=white\&style=flat-square)]()
+ <img src="https://skillicons.dev/icons?i=java,python,kotlin,html,css,nodejs,javascript,typescript,tailwindcss,nextjs,react,github,mongodb,linkedin,git,express,jquery,vue,linux,bootstrap,css,discord,discordbots,git,markdown,nginx,vscode,sass,ubuntu,&theme=dark" />
 
 </div>
 
